@@ -199,11 +199,11 @@ font-size: 20px;
 .content
 {
 display: flex;
-align-items: flex-end;
+align-items: flex-start;
 flex-direction: column;
-
 margin-right: 50px;
 }
+
 
 .phrase-7
 {
@@ -220,7 +220,7 @@ font-family: Work Sans, Arial, sans-serif;
 
 .image_1
 {
-margin-left: 50px;
+display: flex;
 }
 
 
